@@ -1,0 +1,1 @@
+Given a Mars Lander simulation written in C++ and OpenGL, wrote functions for the autopilot using PD control, and wrote programs to find the optimal parameters using a genetic algorithm approach, and using q-learning.
