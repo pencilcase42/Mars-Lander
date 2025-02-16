@@ -1,0 +1,5 @@
+Best Fitness: 0
+kp: 3.61643
+kh: 0.163997
+delta: 6.66827
+parachute_altitude: 9220.54
